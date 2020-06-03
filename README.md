@@ -2,6 +2,8 @@
 
 Read this file to understand the nitty-gritty and inner working of the app
 
+__Developers: Justin Havas, Ananjaya Tyagi, Lakshya Bakshi, Lucy Chikwetu__
+
 ## Demo
 
 A guide on the workflow as well as a demo of the code can be found [here](https://youtu.be/d4p888eFUxg).
